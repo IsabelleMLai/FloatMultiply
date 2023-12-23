@@ -1,4 +1,3 @@
-Float Multiply
 
 Multiply float values in bfloat16 representation in the assembly language RISC-V.
 
